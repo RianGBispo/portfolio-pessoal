@@ -249,7 +249,7 @@ portfolio/
 5. **Experimente** os formulários e filtros de projetos
 
 ### **Pode ser acessado em:**
-- https://rianbispo.github.io/portfolio-pessoal/
+- https://riangbispo.github.io/portfolio-pessoal/
 
 ### **Requisitos**
 - Navegador moderno com suporte a HTML5, CSS3 e ES6+
